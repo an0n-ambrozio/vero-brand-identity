@@ -1,6 +1,6 @@
 
 import React from 'react';
-import logoFull from '../assets/logo-full.svg';
+import logoFull from '../assets/logo-escrita.svg';
 
 export const Navbar: React.FC = () => {
   return (
